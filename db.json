@@ -1,0 +1,14 @@
+{
+  "peoples" : [
+    {"id":1,"name":"Parnell","gender":"Male","country":"United States"},
+    {"id":2,"name":"Elly","gender":"Female","country":"Netherlands"},
+    {"id":3,"name":"Pepito","gender":"Male","country":"Portugal"},
+    {"id":4,"name":"Codie","gender":"Male","country":"Thailand"},
+    {"id":5,"name":"Cecelia","gender":"Female","country":"Philippines"},
+    {"id":6,"name":"Elisabeth","gender":"Female","country":"Serbia"},
+    {"id":7,"name":"Francisca","gender":"Female","country":"Indonesia"},
+    {"id":8,"name":"Salvidor","gender":"Male","country":"Indonesia"},
+    {"id":9,"name":"Kinsley","gender":"Male","country":"Portugal"},
+    {"id":10,"name":"Jaquenette","gender":"Female","country":"Indonesia"}
+  ]
+}
