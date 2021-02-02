@@ -3,5 +3,5 @@ mypwa project Wanoname
 https://github.com/ary21/mypwa
 
 # LIVE DEMO 
-https://mypwafirebase-1ccf8.firebaseapp.com/
+https://affectionate-torvalds-875185.netlify.app/
 
