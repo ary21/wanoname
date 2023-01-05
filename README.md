@@ -1,7 +1,9 @@
 # mypwa Wanoname
 mypwa project Wanoname
-https://github.com/ary21/mypwa
+- Open web by phone
+- Install web app
+- next time copy number here to start wa chat no need save (noname)
 
-# LIVE DEMO 
-https://affectionate-torvalds-875185.netlify.app/
+## LIVE DEMO 
+https://wanoname2.netlify.app
 
